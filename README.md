@@ -6,10 +6,10 @@ A growing open-source collection of practices, exercises, and protocols for the 
 
 ## Library
 
-- 🔺 **Work of Merkabah** (coming soon)
-- 🔷 **Creative Framework** (coming soon)
-- 🫧 **Deep Healing** (coming soon)
-- 🔹 **The Crystalline Path** (coming soon)
+- 🚀 **Work of Merkabah** (coming soon)
+- 🤯 **Creative Framework** (coming soon)
+- 🪷 **Deep Healing** (coming soon)
+- 💎 **The Crystalline Path** (coming soon)
 
 ## License
 
